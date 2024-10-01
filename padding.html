@@ -19,12 +19,21 @@
       h3 {
         background-color: orange;
       }
-      .box {
+      .caja-exterior {
+        background-color: gray;
+        padding: 20px;
         width: 300px;
-        height: 150px;
-        border: 20px solid blue;
-        padding: 20px white;
-        margin: 20px white;
+      }
+
+      .caja-interior {
+        background-color: white;
+        border: 5px solid blue;
+        padding: 20px;
+      }
+
+      .contenido {
+        background-color: orange;
+        padding: 10px;
       }
     </style>
   </head>
@@ -63,6 +72,12 @@
           <li>width |  Tamaño de ancho de un elemento.</li>
           <li>height |  Tamaño de alto de un elemento.</li>
         </ul>
-    <h3>    h    </h3>
+    <div class="caja-exterior">
+      <div class="caja-interior">
+        <div class="contenido">
+          Este es el contenido
+        </div>
+      </div>
+    </div>
 </body>
 </html>
