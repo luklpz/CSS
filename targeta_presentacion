@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejercicio: Crear una targeta de presentación</title>
+    <style>
+      .caja {
+        border: 10px solid blue;
+        padding: 10px solid white;
+        margin: 70px solid white;
+        width: 300px;
+        height: 200px;
+      }
+
+      .contenido {
+        background-color: yellow;
+        padding: 10px solid white;
+      }
+    </style>
+  </head>
+<body>
+  <h1>Ejercicio: Colores y fuentes.</h1>
+
+    <div class="caja">
+      <div class="contenido">
+        <h2>Luka López</h2>
+        <h3>Estudiante</h3>
+        <p>En cuanto a mi, soy una persona trabajadora y autodidacta; aunque actualmente estoy estudiando informática, previamente inicié estudios no finalizados en el campo de la química; y he trabajado los sectores de las mudanzas y atención al público.</p>
+      </div>
+    </div>
+</body>
+</html>
