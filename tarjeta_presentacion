@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Ejercicio: Crear una targeta de presentación</title>
+    <title>Ejercicio: Crear una tarjeta de presentación</title>
     <style>
       .caja {
         border: 10px solid blue;
