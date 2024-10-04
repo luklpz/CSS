@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejercicio: Diferencias entre clases e identificadores (ID) en CSS</title>
+    <style>
+      h1 {
+
+      }
+      .caja {
+        border: 10px solid blue;
+        padding: 10px;
+        margin: 70px;
+        width: 300px;
+        height: 300px;
+      }
+
+      .contenido {
+        background-color: yellow;
+        padding: 10px;
+      }
+    </style>
+  </head>
+<body>
+  <h1>Ejercicio: Diferencias entre clases e identificadores (ID) en CSS.</h1>
+    <p></p>
+</body>
+</html>
